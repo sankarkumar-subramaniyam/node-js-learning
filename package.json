@@ -1,0 +1,27 @@
+{
+  "name": "js-learning",
+  "version": "1.0.0",
+  "description": "learn JS & node",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sankarkumar-subramaniyam/node-js-learning.git"
+  },
+  "keywords": [
+    "sankar",
+    "node",
+    "js"
+  ],
+  "author": "Sankarkumar Subramaniyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankarkumar-subramaniyam/node-js-learning/issues"
+  },
+  "homepage": "https://github.com/sankarkumar-subramaniyam/node-js-learning#readme"
+}
